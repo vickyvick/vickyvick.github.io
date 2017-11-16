@@ -1,0 +1,66 @@
+body{
+    background-color:#2f6d8e;
+    margin-top:0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+h2{
+    font-family: 'Almendra Display', cursive;
+    text-align: center;
+    color:#58c3fc;
+}
+.headerul{
+    padding: 10px;
+    background: rgba(0, 255, 248, 0.15);
+}
+.inline{
+    display:inline;
+    padding:0px 10px 0px 10px;
+}
+header{
+    text-align:center;
+    background:url('http://i.dailymail.co.uk/i/pix/2012/02/05/article-0-1197F230000005DC-995_964x539.jpg');
+    background-size:cover;
+    padding: 20px 0px 0px 0px;
+    color:#58c3fc;
+}
+h1{
+    font-size:4em;
+    font-family: 'Raleway', sans-serif; 
+}
+h2{
+    font-size:3em;
+}
+h3{
+    font-size:2em;
+    text-align: center;
+    color:#70cdff;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    color:white;
+}
+a{
+    color:#a0ddff;
+    font-family: 'Dosis', sans-serif;
+}
+article{
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+}
+img {
+    margin: 10px 0px 0px 150px;
+    border: 7px solid white;
+    border-radius: 20px;
+    float: none;
+  }
+ul{
+    color:white;
+}
+.ATM{
+    margin: -30px 0px 35px 0px;
+}
+
+
