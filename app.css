@@ -73,7 +73,7 @@ ol{
     display: inline-block;
     text-align: center;
     vertical-align: middle;
-    padding: 12px 24px;
+    padding: 6px 12px;
     border: 1px solid #709bb3;
     border-radius: 8px;
     background: #a0deff;
@@ -81,7 +81,7 @@ ol{
     background: -moz-linear-gradient(top, #a0deff, #70cdff);
     background: linear-gradient(to bottom, #a0deff, #70cdff);
     text-shadow: #2f6dbe 1px 1px 1px;
-    font: normal normal bold 20px arial;
+    font: normal normal bold 14px arial;
     color: #111111;
     text-decoration: none;
 }
