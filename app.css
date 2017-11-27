@@ -77,9 +77,9 @@ ol{
     border: 1px solid #709bb3;
     border-radius: 8px;
     background: #a0deff;
-    background: -webkit-gradient(linear, left top, left bottom, from(#a0deff), to(#0585fc));
-    background: -moz-linear-gradient(top, #a0deff, #0585fc);
-    background: linear-gradient(to bottom, #a0deff, #0585fc);
+    background: -webkit-gradient(linear, left top, left bottom, from(#a0deff), to(#70cdff));
+    background: -moz-linear-gradient(top, #a0deff, #70cdff);
+    background: linear-gradient(to bottom, #a0deff, #70cdff);
     text-shadow: #2f6dbe 1px 1px 1px;
     font: normal normal bold 20px arial;
     color: #111111;
@@ -89,17 +89,17 @@ ol{
 .button:focus {
     border: 1px solid #a0deff;
     background: #c0ffff;
-    background: -webkit-gradient(linear, left top, left bottom, from(#c0ffff), to(#06a0ff));
-    background: -moz-linear-gradient(top, #c0ffff, #06a0ff);
-    background: linear-gradient(to bottom, #c0ffff, #06a0ff);
+    background: -webkit-gradient(linear, left top, left bottom, from(#c0ffff), to(#86f6ff));
+    background: -moz-linear-gradient(top, #c0ffff, #86f6ff);
+    background: linear-gradient(to bottom, #c0ffff, #86f6ff);
     color: #111111;
     text-decoration: none;
 }
 .button:active {
     background: #709bb3;
-    background: -webkit-gradient(linear, left top, left bottom, from(#709bb3), to(#0585fc));
-    background: -moz-linear-gradient(top, #709bb3, #0585fc);
-    background: linear-gradient(to bottom, #709bb3, #0585fc);
+    background: -webkit-gradient(linear, left top, left bottom, from(#709bb3), to(#70cdff));
+    background: -moz-linear-gradient(top, #709bb3, #70cdff);
+    background: linear-gradient(to bottom, #709bb3, #70cdff);
 }
 .button:before{
     content:  "\0000a0";
